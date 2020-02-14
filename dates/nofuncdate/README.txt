@@ -1,0 +1,4 @@
+This submission is for Date etude. Took me at least three weeks to make some progress but did learn quite a bit. I have used python for this task. The program actually go through a few diffrent formats of input dates from a file and check if it is a valid date. I have attached the actual code and my testing file with it. To comiple the file from the command line use python date.py < date.txt which is the name of my input file.
+I have tried to debug most of it and am pretty sure that it will all the test cases which you have sent to me.
+how to compile:
+python date.py < date.txt
